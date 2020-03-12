@@ -2,7 +2,7 @@
 <br>
 // Clone the repository
 <br>
-git clone
+git clone https://tst-cruise@github.com/tst-cruise/CruiseFun.git
 
 <br>
 // cd to the root directory of the clone project
